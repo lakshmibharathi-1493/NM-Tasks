@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    background-color:antiquewhite;
+    padding:10px 40px 0 40px;
+}
+header{
+    text-align:center;
+    background-color: rgb(106, 62, 62);
+    color:antiquewhite;
+    padding:10px 0 10px 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-size:25px;
+    font-style:oblique;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p,ul,li{
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:0 0 3px 20px;
+}
